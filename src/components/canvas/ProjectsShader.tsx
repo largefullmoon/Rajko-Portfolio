@@ -37,7 +37,7 @@ const ProjectsShader: React.FC = () => {
     },
 
     {
-      title: 'Treee.js Projects',
+      title: 'Three.js Projects',
       position: [-0.6, -3 + posY, -0.09],
       src: '/img/projects/three/1.png',
       url: 'https://vr.ff.com/us',
