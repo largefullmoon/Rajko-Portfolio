@@ -3,8 +3,8 @@ import Head from 'next/head'
 const titleDefault = 'Rajko Mandic'
 const url = 'https://daleban3d.vercel.app/'
 const description =
-  'Joseph Dale Bañares is a Creative Developer based in the Philippines. He is an autodidact with a passion for building beautiful and interactive websites.'
-const author = 'Joseph Dale Bañares'
+  'Rajko Mandic is a Creative Developer based in the Serbia. He is an autodidact with a passion for building beautiful and interactive websites.'
+const author = "Rajko Mandic"
 
 const Header = ({ title = titleDefault }) => {
   return (
