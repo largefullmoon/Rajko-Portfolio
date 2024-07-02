@@ -23,7 +23,7 @@ const Header = ({ title = titleDefault }) => {
         <meta name='description' content={description} />
         <meta
           name='keywords'
-          content='Software Engineer, Creative Developer, React Developer, Filipino Developer, 3D Develper'
+          content='Rajko Mandic Is An AI Python Developer In Serbia'
         />
         <meta name='robots' content='index,follow' />
         <meta name='distribution' content='web' />
